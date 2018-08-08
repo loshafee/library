@@ -12,8 +12,20 @@
     "lodash": "^4.17.10"
   },
   "devDependencies": {
+    "autoprefixer": "^9.1.0",
+    "cssnano": "^4.0.5",
+    "postcss-cssnext": "^3.1.0",
+    "postcss-extend": "^1.0.5",
+    "postcss-import": "^12.0.0",
+    "postcss-mixins": "^6.2.0",
+    "postcss-nested": "^3.0.0",
+    "postcss-simple-vars": "^4.1.0",
     "rollup-plugin-commonjs": "^9.1.4",
+    "rollup-plugin-eslint": "^5.0.0",
     "rollup-plugin-json": "^3.0.0",
-    "rollup-plugin-node-resolve": "^3.3.0"
+    "rollup-plugin-livereload": "^0.6.0",
+    "rollup-plugin-node-resolve": "^3.3.0",
+    "rollup-plugin-postcss": "^1.6.2",
+    "rollup-plugin-serve": "^0.4.2"
   }
 }

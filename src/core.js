@@ -3,6 +3,8 @@ import foo from './foo.js';
 import { version } from '../package.json'
 import _ from 'lodash'
 
+import './scss/test.css'
+
 function core () {
   console.log('versoin' + version)
   console.log(foo);
